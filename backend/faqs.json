@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How can I check my balance?",
+    "answer": "You can check your balance by dialing *123# from your phone."
+  },
+  {
+    "question": "How do I activate internet packages?",
+    "answer": "You can activate internet packages by dialing *456# or using our mobile app."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can call our helpline at 111-123-123 for assistance."
+  },
+  {
+    "question": "How do I recharge my account?",
+    "answer": "You can recharge by using a scratch card, mobile banking, or dialing *222*PIN#."
+  },
+  {
+    "question": "What should I do if my SIM is lost?",
+    "answer": "Please visit your nearest franchise with your CNIC to get a SIM replacement."
+  }
+]
